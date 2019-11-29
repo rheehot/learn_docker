@@ -71,9 +71,7 @@ VM과 컨테이너의 차이점
 
 운영 관점에서 볼 때 리소스를 보다 세밀하게 제어하여 인프라의 효율성을 향상 시킬 수 있고 이는 컴퓨팅 리소스의 활용도를 높일 수 있습니다.
 
-![](.gitbook/assets/2.png)
-
-Docker에 대한 Google 트렌드
+![Docker&#xC5D0; &#xB300;&#xD55C; Google &#xD2B8;&#xB80C;&#xB4DC;](.gitbook/assets/2.png)
 
 이러한 이점으로 인해 컨테이너\(e.g. Docker\)가 널리 채택되었습니다. Google, Facebook, Netflix 및 Salesforce와 같은 회사는 컨테이너를 활용하여 대규모 엔지니어링 팀의 생산성을 높이고 컴퓨팅 리소스의 활용도를 향상 시킵니다.
 
