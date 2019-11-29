@@ -4,7 +4,7 @@ Docker Desktop을 다운로드 하려면 Docker Hub로 이동하여 Docker ID로
 
 * Docker Hub에서 다운로드 - [https://hub.docker.com/?overlay=onboarding](https://hub.docker.com/?overlay=onboarding)
 
-#### 시스템 요구 사항
+## 시스템 요구 사항
 
 Docker Desktop을 성공적으로 설치하려면 Mac이 다음 요구 사항을 충족해야 합니다.
 
@@ -20,11 +20,11 @@ sysctl kern,.hv_support
 
 참고: 시스템이 위의 요구사항에 충족하지 않으면 HyperKit 대신 Oracle VirtualBox를 사용하는 Docker Toolbox를 설치할 수 있습니다.
 
-#### 설치 프로그램에 포함된 내용
+## 설치 프로그램에 포함된 내용
 
 Docker Desktop 설치에는 Docker Engine, Docker CLI 클라이언트, Docker Compose, Docker Machine 및 Kitematic이 포함 됩니다.
 
-#### Mac에서 Docker Desktop 설치 및 실행
+## Mac에서 Docker Desktop 설치 및 실행
 
 1. Docker.dmg 파일을 두번 클릭하여 설치 프로그램에서 Docker 아이콘을 Applications 폴더로 드래그 합니다.
 
