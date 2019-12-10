@@ -1,7 +1,8 @@
 # Table of contents
 
-* [1. 소개말](README.md)
-* [2. 시작하기 전에](undefined.md)
+* [책 표지](README.md)
+* [1. 소개말](1./README.md)
+  * [1.2 시작하기 전에](1./undefined.md)
 * [Docker 소개](docker-1/README.md)
   * [가상화의 역사](docker-1/undefined.md)
   * [가상 머신과 컨테이너란 무엇인가?](docker-1/undefined-1.md)
