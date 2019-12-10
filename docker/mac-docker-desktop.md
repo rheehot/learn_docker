@@ -28,7 +28,7 @@ Docker Desktop 설치에는 Docker Engine, Docker CLI 클라이언트, Docker Co
 
 1. Docker.dmg 파일을 두번 클릭하여 설치 프로그램에서 Docker 아이콘을 Applications 폴더로 드래그 합니다.
 
-![](../.gitbook/assets/0%20%281%29.png)
+![](../.gitbook/assets/0.png)
 
 1. Docker.app 어플리케이션을 두 번 클릭하여 Docker를 시작합니다.
 
