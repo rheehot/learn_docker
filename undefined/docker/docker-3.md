@@ -1,8 +1,8 @@
-# 2.7 Docker 아키텍처
+# 2.4.3 Docker 아키텍처
 
 아래의 그림은 Docker 아키텍처를 간단히 표현한 것입니다.
 
-![](../.gitbook/assets/5.png)
+![](../../.gitbook/assets/5.png)
 
 ## 도커 엔진
 
