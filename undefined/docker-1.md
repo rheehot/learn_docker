@@ -1,4 +1,4 @@
-# Docker를 채택한 회사
+# 2.5 Docker를 채택한 회사
 
 Enterprise급 조직에서는 Docker를 여러 방식으로 사용하고 있습니다.
 
