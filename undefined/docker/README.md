@@ -1,4 +1,4 @@
-# 2.4 Docker란 무엇인가?
+# 2.2 Docker란 무엇인가?
 
 ![](../../.gitbook/assets/3.png)
 
