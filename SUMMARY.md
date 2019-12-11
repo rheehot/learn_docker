@@ -12,6 +12,7 @@
     * [2.2.3 Docker 아키텍처](undefined/docker/docker-3.md)
   * [2.3 컨테이너\(Container\)가 세계를 평정한 이유](undefined/2.3-container/README.md)
     * [2.3.1 클라우드로 어플리케이션 마이그레이션](undefined/2.3-container/2.3.1.md)
+    * [2.3.2 Legacy 어플리케이션의 현대화](undefined/2.3-container/2.3.2-legacy.md)
 * [Docker 설치하기](docker/README.md)
   * [설치 전 준비사항](docker/install.md)
   * [Mac에서 Docker Desktop 설치](docker/mac-docker-desktop.md)
