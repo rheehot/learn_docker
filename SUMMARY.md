@@ -6,4 +6,5 @@
   * [1.1 가상화의 역사](1./1.1.md)
   * [1.2 가상 머신과 컨테이너란 무엇인가?](1./1.2/README.md)
     * [1.2.1 가상 머신 \(Virtual Machines\)](1./1.2/1.2.1-virtual-machines.md)
+    * [1.2.2 컨테이너 \(Container\)](1./1.2/1.2.2-container.md)
 
