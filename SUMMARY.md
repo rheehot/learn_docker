@@ -8,4 +8,5 @@
     * [1.2.1 가상 머신 \(Virtual Machines\)](1./1.2/1.2.1-virtual-machines.md)
     * [1.2.2 컨테이너 \(Container\)](1./1.2/1.2.2-container.md)
   * [1.2.3 VM과 컨테이너](1./1.2.3-vm.md)
+  * [1.2.4 왜 컨테이너를 사용하나요?](1./1.2.4.md)
 
