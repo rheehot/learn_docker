@@ -55,4 +55,5 @@
   * [4.5 이미지 검색](4.-docker-hub/4.5.md)
 * [5. 나만의 Docker 이미지 만들기](5.-docker/README.md)
   * [5.1 나만의 데이터 관리](5.-docker/5.1.md)
+  * [5.2 이미지 commit](5.-docker/5.2-commit.md)
 
