@@ -38,4 +38,5 @@
   * [2.9 컨테이너 재시작 하기](2.-docker-hello-world/2.9.md)
   * [2.10 컨테이너에 접속하기](2.-docker-hello-world/2.10.md)
   * [2.11 외부에서 컨테이너내의 명령 실행하기](2.-docker-hello-world/2.11.md)
+  * [2.12 컨테이너 실행 정지 하기](2.-docker-hello-world/2.12.md)
 
