@@ -64,5 +64,6 @@
   * [6.3 로컬 Registry로 Push 하기](6.-docker-registry/6.3-registry-push/README.md)
     * [6.3.1 busybox 및 alpine 리눅스 이미지 가져오기](6.-docker-registry/6.3-registry-push/6.3.1-busybox-alpine.md)
     * [6.3.2 busybox 및 alpine 리눅스를 로컬 Registry에 Push 하기](6.-docker-registry/6.3-registry-push/6.3.2-busybox-alpine-registry-push.md)
-* [7. Data Volumes](7.-data-volumes.md)
+* [7. Data Volumes](7.-data-volumes/README.md)
+  * [7.1 데이터 볼륨 마운트](7.-data-volumes/7.1.md)
 
