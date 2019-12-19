@@ -32,4 +32,5 @@
   * [2.3 컨테이너 상태 확인하기](2.-docker-hello-world/2.3.md)
   * [2.4 Image 검색하기](2.-docker-hello-world/2.4-image.md)
   * [2.5 Image 가져오기](2.-docker-hello-world/2.5-image.md)
+  * [2.6 Image 목록 출력하기](2.-docker-hello-world/2.6-image.md)
 
