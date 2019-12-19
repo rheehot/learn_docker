@@ -26,5 +26,6 @@
   * [1.6 실습 환경 만들기](1./1.6/README.md)
     * [1.6.1 도커 설치](1./1.6/1.6.1.md)
     * [1.6.2 샘플 코드 다운로드](1./1.6/1.6.2.md)
-* [2. Docker 이해하기 및 Hello World 실행](2.-docker-hello-world.md)
+* [2. Docker 이해하기 및 Hello World 실행](2.-docker-hello-world/README.md)
+  * [2.1 컨테이너에서 Hello World 실행하기](2.-docker-hello-world/2.1-hello-world.md)
 
