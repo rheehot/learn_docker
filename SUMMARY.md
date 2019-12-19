@@ -34,4 +34,5 @@
   * [2.5 Image 가져오기](2.-docker-hello-world/2.5-image.md)
   * [2.6 Image 목록 출력하기](2.-docker-hello-world/2.6-image.md)
   * [2.7 컨테이너 생성하기](2.-docker-hello-world/2.7.md)
+  * [2.8 컨테이너 시작하기](2.-docker-hello-world/2.8.md)
 
