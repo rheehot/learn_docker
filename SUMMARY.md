@@ -53,5 +53,6 @@
   * [4.3 이미지 목록 보기](4.-docker-hub/4.3.md)
   * [4.4 컨테이너 시작](4.-docker-hub/4.4.md)
   * [4.5 이미지 검색](4.-docker-hub/4.5.md)
-* [5. 나만의 Docker 이미지 만들기](5.-docker.md)
+* [5. 나만의 Docker 이미지 만들기](5.-docker/README.md)
+  * [5.1 나만의 데이터 관리](5.-docker/5.1.md)
 
