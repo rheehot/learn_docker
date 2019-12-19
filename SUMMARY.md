@@ -61,4 +61,5 @@
 * [6. Docker 전용 Registry](6.-docker-registry/README.md)
   * [6.1 Registry 이미지를 다운 받기](6.-docker-registry/6.1-registry.md)
   * [6.2 로컬 Registry 실행 하기](6.-docker-registry/6.2-registry.md)
+  * [6.3 로컬 Registry로 Push 하기](6.-docker-registry/6.3-registry-push.md)
 
