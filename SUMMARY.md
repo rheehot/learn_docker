@@ -60,4 +60,5 @@
   * [5.4 Docker Hub로 이미지 Push 하기](5.-docker/5.4-docker-hub-push.md)
 * [6. Docker 전용 Registry](6.-docker-registry/README.md)
   * [6.1 Registry 이미지를 다운 받기](6.-docker-registry/6.1-registry.md)
+  * [6.2 로컬 Registry 실행 하기](6.-docker-registry/6.2-registry.md)
 
