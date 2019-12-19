@@ -10,8 +10,9 @@
     * [1.2.3 VM과 컨테이너](1./1.2/1.2.3-vm.md)
     * [1.2.4 왜 컨테이너를 사용하나요?](1./1.2/1.2.4.md)
   * [1.3 Docker란 무엇인가?](1./1.3-docker/README.md)
-    * [1.3.4 일반적인 Docker 활용 사례](1./1.3-docker/1.3.4-docker.md)
     * [1.3.1 Docker는 누구를 위한 것인가?](1./1.3-docker/1.3.1-docker.md)
     * [1.3.2 Docker를 이용해 무엇을 하나요?](1./1.3-docker/1.3.2-docker.md)
     * [1.3.3 Docker를 채택한 회사](1./1.3-docker/1.3.3-docker.md)
+    * [1.3.4 일반적인 Docker 활용 사례](1./1.3-docker/1.3.4-docker.md)
+    * [1.3.5 Docker 아키텍처](1./1.3-docker/1.3.5-docker.md)
 
