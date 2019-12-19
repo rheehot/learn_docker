@@ -41,5 +41,6 @@
   * [2.12 컨테이너 실행 정지 하기](2.-docker-hello-world/2.12.md)
   * [2.13 컨테이너 삭제하기](2.-docker-hello-world/2.13.md)
   * [2.14 Image 삭제하기](2.-docker-hello-world/2.14-image.md)
-* [3. Docker Image 및 컨테이너 추가 정보](3.-docker-image.md)
+* [3. Docker Image 및 컨테이너 추가 정보](3.-docker-image/README.md)
+  * [3.1 Apache 웹 서버 실행](3.-docker-image/3.1-apache.md)
 
