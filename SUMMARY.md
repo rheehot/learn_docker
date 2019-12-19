@@ -31,4 +31,5 @@
   * [2.2 첫번째 컨테이너 실행 \(docker run 명령어\)](2.-docker-hello-world/2.2-docker-run.md)
   * [2.3 컨테이너 상태 확인하기](2.-docker-hello-world/2.3.md)
   * [2.4 Image 검색하기](2.-docker-hello-world/2.4-image.md)
+  * [2.5 Image 가져오기](2.-docker-hello-world/2.5-image.md)
 
