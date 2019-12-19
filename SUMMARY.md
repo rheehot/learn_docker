@@ -28,4 +28,5 @@
     * [1.6.2 샘플 코드 다운로드](1./1.6/1.6.2.md)
 * [2. Docker 이해하기 및 Hello World 실행](2.-docker-hello-world/README.md)
   * [2.1 컨테이너에서 Hello World 실행하기](2.-docker-hello-world/2.1-hello-world.md)
+  * [2.2 첫번째 컨테이너 실행 \(docker run 명령어\)](2.-docker-hello-world/2.2-docker-run.md)
 
