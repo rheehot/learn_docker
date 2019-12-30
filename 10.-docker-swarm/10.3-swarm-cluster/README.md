@@ -31,7 +31,7 @@
 
 아래의 명령어를 실행하여 Swarm 상태를 확인할 수 있습니다.
 
-| **docker@manager1:~$ docker node ls ID                            HOSTNAME STATUS           AVAILABILITY MANAGER STATUS ENGINE VERSION yli8mapw893qwmavhq7at3x0t \*   manager1 Ready           Active Leader 19.03.5 docker@manager1:~$** |
+| `docker@manager1:~$ docker node ls ID                            HOSTNAME STATUS           AVAILABILITY MANAGER STATUS ENGINE VERSION yli8mapw893qwmavhq7at3x0t *   manager1 Ready           Active Leader 19.03.5 docker@manager1:~$` |
 | :--- |
 
 

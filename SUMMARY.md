@@ -73,5 +73,7 @@
 * [10. Docker Swarm 알아보기](10.-docker-swarm/README.md)
   * [10.1 컨테이너 오케스트레이션이 필요한 이유](10.-docker-swarm/10.1.md)
   * [10.2 Docker 머신 생성하기](10.-docker-swarm/10.2-docker.md)
-  * [10.3 Swarm Cluster](10.-docker-swarm/10.3-swarm-cluster.md)
+  * [10.3 Swarm Cluster](10.-docker-swarm/10.3-swarm-cluster/README.md)
+    * [10.3.1 Work Node로 Join 하기](10.-docker-swarm/10.3-swarm-cluster/10.3.1-work-node-join.md)
+    * [10.3.2 Manager Node로 Join 하기](10.-docker-swarm/10.3-swarm-cluster/10.3.2-manager-node-join.md)
 
