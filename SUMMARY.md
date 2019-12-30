@@ -80,4 +80,9 @@
   * [10.5 서비스 만들기](10.-docker-swarm/10.5.md)
   * [10.6 서비스 이용하기](10.-docker-swarm/10.6.md)
   * [10.7 확장 및 축소하기](10.-docker-swarm/10.7.md)
+  * [10.8 노드 검사](10.-docker-swarm/10.8.md)
+  * [10.9 노드 가용성 속성 변경](10.-docker-swarm/10.9.md)
+  * [10.10 서비스 제거하기](10.-docker-swarm/10.10.md)
+  * [10.11 롤링 업데이트 적용하기](10.-docker-swarm/10.11.md)
+  * [10.12 결론](10.-docker-swarm/10.12.md)
 
