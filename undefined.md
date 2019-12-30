@@ -12,3 +12,7 @@
 
 강의에 참여해주셔서 다시 한번 감사드립니다.
 
+
+
+{% file src=".gitbook/assets/docker.pdf" caption="PDF 파일 다운받기" %}
+
